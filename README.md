@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
 	<a href="https://fuujiro.github.io/"><img src="https://img.shields.io/badge/blog-60k%20pageviews-ffffff.svg?style=social" alt="Blog"></a>
 	<a href="https://twitter.com/fuujirooo"><img src="https://img.shields.io/twitter/follow/fuujiro.svg?style=social" alt="Twitter"></a>
