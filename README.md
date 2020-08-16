@@ -11,7 +11,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="float:middle" src="https://github-readme-stats.vercel.app/api?username=fuujiro&count_private=true&show_icons=true&theme=buefy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fuujiro&count_private=true&show_icons=true&theme=buefy" style="float:middle" />
 </a>
 
 
