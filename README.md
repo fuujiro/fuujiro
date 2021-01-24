@@ -16,9 +16,6 @@ Currently, I'm a graduate student in Waseda Univ, major in computer science and 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuujiro&layout=compact&theme=merko" width="250">
 </p>
 
-### Contact
-+ jarryfeng@tencent.com
-
 
 <!--
 **gaocegege/gaocegege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
