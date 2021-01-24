@@ -10,7 +10,7 @@
 
 
 ### Experience
-Currently, I'm a graduate student in Waseda Univ, major in computer science and I'm a intern at [LightSpeed & Quantum Studios](https://www.facebook.com/LightspeedQuantum/), [Tencent](https://www.tencent.com/en-us). Before that, I'm a former intern at [Huawei Beijing Research Center](https://consumer.huawei.com/en/).
+Currently, I'm a graduate student in Waseda Univ, major in computer science and I'm a intern at [⚡LightSpeed & Quantum Studios](https://www.facebook.com/LightspeedQuantum/), [🐧Tencent](https://www.tencent.com/en-us). Before that, I'm a former intern at [Huawei Beijing Research Center](https://consumer.huawei.com/en/).
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuujiro&layout=compact&theme=merko" width="250">
