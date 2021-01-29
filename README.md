@@ -1,8 +1,9 @@
 <p align="center">
 	<a href="https://fuujiro.github.io/"><img src="https://img.shields.io/badge/blog-60k%20pageviews-lightgrey" alt="Blog"></a>
+	<a href="https://github.com/fuujiro/myResume/blob/main/ZiyangFeng_en_US-zh_CN.pdf"><img src="https://img.shields.io/badge/resume-jarryfeng--orange" alt="Resume"></a>
 <!-- 	<a href="https://twitter.com/fuujirooo"><img src="https://img.shields.io/twitter/follow/fuujiro.svg?style=social" alt="Twitter"></a> -->
-	<a href="https://www.linkedin.com/in/%E5%AD%90%E6%89%AC-%E5%86%AF-4b4339156/"><img src="https://img.shields.io/badge/LinkedIn-fuujiro-blueviolet.svg?style=social" alt="LinkedIn"></a>
-	<a href="https://www.zhihu.com/people/fuujiro"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-fuujiro-blueviolet.svg?style=social" alt="Zhihu"></a>
+	<a href="https://www.linkedin.com/in/%E5%AD%90%E6%89%AC-%E5%86%AF-4b4339156/"><img src="https://img.shields.io/badge/LinkedIn-fuujiro-blue" alt="LinkedIn"></a>
+	<a href="https://www.zhihu.com/people/fuujiro"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-fuujiro-blueviolet" alt="Zhihu"></a>
         <!--
 	<a href="http://gaocegege.com/resume/cn/"><img src="https://img.shields.io/badge/%E7%AE%80%E5%8E%86-%E4%B8%AD%E6%96%87-blue.svg" alt="Resume in Chinese"></a>
         -->
