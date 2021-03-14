@@ -12,7 +12,7 @@
 
 ### Experience
 Currently, I'm a 
-👨‍💻graduate student in [Waseda Univ.](https://www.waseda.jp/top/en/), major in computer science and a intern at [⚡LightSpeed & Quantum Studios](https://www.facebook.com/LightspeedQuantum/), [🐧Tencent Games](https://twitter.com/tencentgames). Before that, I'm a former intern at [Huawei Research](https://twitter.com/Huawei). For more information, please click [📄my resume](https://github.com/fuujiro/myResume/blob/main/ZiyangFeng_en_US-zh_CN.pdf).
+👨‍💻graduate student in [Waseda Univ.](https://www.waseda.jp/top/en/), major in computer science and a intern at [⚡LightSpeed & Quantum Studios](https://www.facebook.com/LightspeedQuantum/), [🐧Tencent Games](https://twitter.com/tencentgames). Before that, I'm a ex-intern at [Huawei Research](https://twitter.com/Huawei). For more information, please click [📄my resume](https://github.com/fuujiro/myResume/blob/main/ZiyangFeng_en_US-zh_CN.pdf).
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuujiro&layout=compact&theme=merko" width="250">
