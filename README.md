@@ -14,8 +14,7 @@
 Currently, I'm a 
 👨‍💻graduate student in [Waseda Univ.](https://www.waseda.jp/top/en/), major in computer science and a SDE intern at [☁️Aliyun](https://www.alibabacloud.com/), [Alibaba](https://www.alibaba.com/). Before that, I'm a ex-intern at 
 [⚡LightSpeed & Quantum Studios](https://www.facebook.com/LightspeedQuantum/), [🐧Tencent Games](https://twitter.com/tencentgames) and [Huawei Research](https://twitter.com/Huawei). 
-您好，我是早稻田大学研一学生👨‍💻，主修计算机科学，当前是阿里巴巴集团-阿里云智能事业群-计算平台☁️的研发实习生。曾在腾讯🐧光子工作室群⚡️和华为北京研究所。
-For more information, please click [📄my resume](https://github.com/fuujiro/myResume/blob/main/ZiyangFeng_en_US-zh_CN.pdf).
+】For more information, please click [📄my resume](https://github.com/fuujiro/myResume/blob/main/ZiyangFeng_en_US-zh_CN.pdf).
 
 <!--
 <p align="center">
