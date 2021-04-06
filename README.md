@@ -12,12 +12,14 @@
 
 ### Intro
 Currently, I'm a 
-👨‍💻graduate student in [Waseda Univ.](https://www.waseda.jp/top/en/), major in computer science and a SWE intern at [☁️Alibaba Cloud](https://www.alibabacloud.com/), [Alibaba](https://www.alibaba.com/). <br> 
-Before that, I'm a ex-intern at 
-[⚡LightSpeed & Quantum Studios](https://www.facebook.com/LightspeedQuantum/), [🐧Tencent Games](https://twitter.com/tencentgames) and [☁️Huawei Cloud](https://www.huaweicloud.com/intl/en-us/), [Huawei Research](https://twitter.com/Huawei). <br> 
+👨‍💻graduate student in [Waseda Univ.](https://www.waseda.jp/top/en/), major in computer science and a SWE intern at 
+[⚡LightSpeed & Quantum Studios](https://www.facebook.com/LightspeedQuantum/), [🐧Tencent Games](https://twitter.com/tencentgames) and a ex-intern at [☁️Huawei Cloud](https://www.huaweicloud.com/intl/en-us/), [Huawei Research](https://twitter.com/Huawei). <br> 
 For more information, please click [📄my resume](https://github.com/fuujiro/myResume/blob/main/ZiyangFeng_en_US-zh_CN.pdf).
 
+
 <!--
+[☁️Alibaba Cloud](https://www.alibabacloud.com/), [Alibaba](https://www.alibaba.com/). <br> 
+Before that, I'm a ex-intern at 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuujiro&layout=compact&theme=merko" width="250">
 </p>
