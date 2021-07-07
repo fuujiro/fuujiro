@@ -15,6 +15,12 @@ Currently, I'm a graduate student in [Waseda Univ.](https://www.waseda.jp/top/en
 Before that, I'm a ex-intern at [⚡&nbsp;LightSpeed & Quantum Studios](https://www.facebook.com/LightspeedQuantum/), [🐧&nbsp;Tencent Games](https://twitter.com/tencentgames) and [☁️&nbsp;Huawei Cloud](https://www.huaweicloud.com/intl/en-us/), [Huawei Research](https://twitter.com/Huawei). <br> 
 For more information, please click [📄&nbsp;my resume](https://github.com/fuujiro/myResume/blob/main/ZiyangFeng_en_US-zh_CN.pdf).
 
+![Metrics](https://metrics.lecoq.io/fuujiro?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&tweets=1&languages=1&isocalendar=1&activity=1&languages.skipped=COMP-551&isocalendar.duration=half-year&tweets.limit=2&tweets.user=fuujiro&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=America%2FNew_York&config.animated=true)
+
+<!--
+**Mike-Gao/Mike-Gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 <!--
 <p align="center">
