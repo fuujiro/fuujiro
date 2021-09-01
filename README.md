@@ -11,7 +11,7 @@
 
 
 ### About
-Currently, I'm a graduate student in [Waseda Univ.](https://www.waseda.jp/top/en/), major in computer science and a SWE engineer at [☁️&nbsp;Alibaba Cloud](https://www.alibabacloud.com/), [Alibaba](https://www.alibaba.com/). <br> 
+Currently, I'm a graduate student in [Waseda Univ.](https://www.waseda.jp/top/en/), major in computer science and a software engineer at [☁️&nbsp;Alibaba Cloud](https://www.alibabacloud.com/), [Alibaba](https://www.alibaba.com/). <br> 
 Before that, I'm a ex-intern at [⚡&nbsp;LightSpeed & Quantum Studios](https://www.facebook.com/LightspeedQuantum/), [🐧&nbsp;Tencent Games](https://twitter.com/tencentgames) and [☁️&nbsp;Huawei Cloud](https://www.huaweicloud.com/intl/en-us/), [Huawei Research](https://twitter.com/Huawei). <br> 
 For more information, please click [📄&nbsp;my resume](https://github.com/fuujiro/myResume/blob/main/ZiyangFeng_en_US-zh_CN.pdf).
 
