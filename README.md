@@ -12,7 +12,7 @@
 
 ### About me
 Currently, I'm a software engineer at [☁️&nbsp;Alibaba Cloud](https://cn.aliyun.com/), focus on building a one-stop big data platform [📈DataWorks](https://www.aliyun.com/product/bigdata/ide).<br> 
-Before that, I'm a ex-intern at [⚡&nbsp;LightSpeed & Quantum Studios](https://www.facebook.com/LightspeedQuantum/), [🐧&nbsp;Tencent Games](https://twitter.com/tencentgames) and [☁️&nbsp;Huawei Cloud](https://www.huaweicloud.com/intl/en-us/), [Huawei Research](https://twitter.com/Huawei). <br> 
+Before that, I'm a ex-intern at [⚡&nbsp;LightSpeed & Quantum Studios](https://guangzi.qq.com/), [🐧&nbsp;Tencent Games](https://game.qq.com/) and [☁️&nbsp;Huawei Cloud](https://www.huaweicloud.com/), [Huawei Research](https://www.huawei.com/cn/corporate-information). <br> 
 For more information, please click [📄&nbsp;my resume](https://github.com/fuujiro/myResume/blob/main/ZiyangFeng_en_US-zh_CN.pdf).
 
 <!-- ![Metrics](https://github.com/fuujiro/fuujiro/blob/master/github-metrics.svg)
