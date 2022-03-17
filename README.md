@@ -15,7 +15,7 @@
 
 Currently, I'm a software engineer at [☁️&nbsp;Alibaba Cloud](https://cn.aliyun.com/), focus on building one-stop big data platform [📈DataWorks](https://www.aliyun.com/product/bigdata/ide).<br> 
 Before that, I'm a ex-intern at [⚡&nbsp;LightSpeed & Quantum Studios](https://guangzi.qq.com/), [🐧&nbsp;Tencent Games](https://game.qq.com/) and [☁️&nbsp;Huawei Cloud](https://www.huaweicloud.com/), [Huawei Research](https://www.huawei.com/cn/corporate-information). <br> 
-For more information, please click [my resume 📄&nbsp;from China](https://www.jianguoyun.com/p/DQ38w8AQ4sCLCRjEzLEE) or [from outside China](https://www.dropbox.com/s/c64zds123nmwtp7/Jarry-en_US-zh_CN.pdf?dl=0).  
+For more information, please click [my resume 📄&nbsp;](https://www.dropbox.com/s/c64zds123nmwtp7/Jarry-en_US-zh_CN.pdf?dl=0).  
 
 
 
