@@ -13,7 +13,7 @@
 ### About me  ![](https://komarev.com/ghpvc/?username=fuujiro&color=43CD80&label=🐸+VIEWS)
 
 
-Currently, I'm a software engineer at [Alibaba Cloud☁️](https://cn.aliyun.com/), focus on building one-stop big data platform [DataWorks📈](https://www.aliyun.com/product/bigdata/ide).<br> 
+Currently, I'm a senior software engineer @Bitget. Previously I workerd for [Alibaba Cloud☁️](https://cn.aliyun.com/), focus on building one-stop big data platform [DataWorks📈](https://www.aliyun.com/product/bigdata/ide).<br> 
 Before that, I'm a ex-intern at [LightSpeed & Quantum Studios⚡](https://guangzi.qq.com/), [Tencent🐧 Games](https://game.qq.com/) and [Huawei Cloud☁️](https://www.huaweicloud.com/), [Huawei Research](https://www.huawei.com/cn/corporate-information). <br> 
 For more information, please click [my resume 📄&nbsp;](https://www.dropbox.com/s/c64zds123nmwtp7/Jarry-en_US-zh_CN.pdf?dl=0).  
 
