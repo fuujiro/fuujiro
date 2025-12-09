@@ -17,10 +17,8 @@ Currently, I'm a Senior Software Engineer at [Bitget](https://www.bitget.com/).
 Previously, I worked at [Alibaba Cloud ☁️](https://cn.aliyun.com/), contributing to the one-stop big data platform [DataWorks 📈](https://www.aliyun.com/product/bigdata/ide).
 
 During my studies, I interned at  
-[LightSpeed & Quantum Studios ⚡](https://guangzi.qq.com/),  
-[Tencent 🐧 Games](https://game.qq.com/),  
-[Huawei Cloud ☁️](https://www.huaweicloud.com/), and  
-[Huawei Research](https://www.huawei.com/cn/corporate-information).
+[LightSpeed & Quantum Studios ⚡](https://guangzi.qq.com/), [Tencent 🐧 Games](https://game.qq.com/),  
+[Huawei Cloud ☁️](https://www.huaweicloud.com/), and  [Huawei Research](https://www.huawei.com/cn/corporate-information).
 
 For more details, u can email me any questions.
 
